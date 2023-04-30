@@ -11,7 +11,7 @@ import numpy as np
 
 #Importar o dataset
 
-df1 = pd.read_csv('../ftc-analisando-dados-python/dataset/train.csv')
+df1 = pd.read_csv('dataset/train.csv')
 st.set_page_config(page_title = 'Visão Restaurantes', layout = 'wide')
 
 
