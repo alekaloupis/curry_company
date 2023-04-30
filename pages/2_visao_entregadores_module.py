@@ -9,7 +9,7 @@ import folium
 from streamlit_folium import folium_static
 
 #Importar o dataset
-df1 = pd.read_csv('../ftc-analisando-dados-python/dataset/train.csv')
+df1 = pd.read_csv('dataset/train.csv')
 st.set_page_config(page_title = 'Visão Entregadores', layout = 'wide')
 
 # ____________________________
