@@ -14,7 +14,7 @@ st.set_page_config(page_title = 'Visão Empresa', layout = 'wide')
 
 #Import do dataset
 #_____________________________________________________________
-df1 = pd.read_csv('../ftc-analisando-dados-python/dataset/train.csv')
+df1 = pd.read_csv('dataset/train.csv')
 
 #C:\Users\Admin\Documents\repos\ftc-analisando-dados-python\
 
